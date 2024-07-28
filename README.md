@@ -4,7 +4,7 @@
 
 Hello! I'm Aml Moawad Mohamed, a passionate developer specializing in Artificial intelligence and Game Development from Belqas, El-Dakahlia, Egypt.
 
-###Education:
+## Education:
 
 - **Bachelor of Information Systems**, Kafr El Sheikh University, Egypt
   - October 2020 - June 2024
