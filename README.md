@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile!
 
-### About Me:
+## About Me:
 
 Hello! I'm Aml Moawad Mohamed, a passionate developer specializing in Artificial intelligence and Game Development from Belqas, El-Dakahlia, Egypt.
 
@@ -10,7 +10,7 @@ Hello! I'm Aml Moawad Mohamed, a passionate developer specializing in Artificial
   - October 2020 - June 2024
   - GPA: 3.79/4.0
 
-Relevant Coursework:
+## Relevant Coursework:
 
 - Machine Learning
 - Deep Learning
@@ -21,7 +21,7 @@ Relevant Coursework:
 - Data Structures
 - Web Development
 
-Experience:
+## Experience:
 
 - **ByteUprise**
   - Machine Learning Intern (June 2024 - July 2024)
@@ -32,7 +32,7 @@ Experience:
 - **Alexandria Electricity Distribution Company**
   - Python, Cyber Security, Java (Aug 2023 - Sep 2023)
 
-Projects:
+## Projects:
 
 - **Fruits and Vegetables Detection Model | IVOICE Application (Apr 2024)**
   - Technologies: MobileNetV2, Adam optimizer, TensorFlow, Keras
@@ -49,7 +49,7 @@ Projects:
   - Accuracy: 96.88%
   - Hosted on Render
 
-Technical Skills:
+## Technical Skills:
 - **Programming Languages**: Python, C#, C++, Dart, PHP
 - **Web Development**: HTML, CSS, JavaScript, Flask
 - **Databases**: SQL Server, MySQL
@@ -57,7 +57,7 @@ Technical Skills:
 - **Concepts**: Data Structures, Algorithms, OOP, Design Patterns, Unit Testing, Diagrams
 - **Areas of Expertise**: Data Science, Machine Learning, Deep Learning, Problem Solving
 
-Leadership / Extracurricular Activities:
+## Leadership / Extracurricular Activities:
 
 - **Volunteer**: IEEE KSB (Institute of Electrical and Electronics Engineers, Kafr El Sheikh Student Branch)
   - Scientific Researcher (Nov 2021)
@@ -87,7 +87,7 @@ Leadership / Extracurricular Activities:
 - **Speaker**: Student Educational Lecture at KFS University
   - Data Types and Database Backup (Nov 2023)
 
-Soft Skills:
+## Soft Skills:
 
 - Time Management
 - Reliability
@@ -101,23 +101,23 @@ Soft Skills:
 - Emotional Intelligence
 - Collaboration
 
-Languages:
+## Languages:
 
 - **English**: Proficient
 - **Arabic**: Native
 - **Spanish**: Beginner
 
-Honors:
+## Honors:
 
 - Ranked first in the second academic year
 - Ranked first in the fourth academic year
 - Ranked second overall in my department
 - Ranked third overall in my college
 
-Connect with Me:
+## Connect with Me:
 
 - [LinkedIn](https://www.linkedin.com/in/aml-moawad-701784211)
 - [Email](mailto:amlmoawad174@gmail.com)
 - [GitHub](https://github.com/AmlMoawadElshora)
 
-Thanks for visiting my profile!
+### Thanks for visiting my profile!
