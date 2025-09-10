@@ -22,6 +22,8 @@ Hello! I'm Aml Moawad Mohamed, a passionate developer specializing in Artificial
 - Web Development
 
 ## Experience:
+- **The Egyptian Chinese University**
+  -Teaching assistant of Data Structure, Database, Digital Logic Design and Discrete Math (October 2024 – Present)
 
 - **ByteUprise**
   - Machine Learning Intern (June 2024 - July 2024)
